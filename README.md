@@ -20,7 +20,7 @@ Puedes ver la entrevista completa aquí:
 ---
 
 ## 📝 Resumen de la entrevista
-En la entrevista, **Andrés Gutiérrez** (Analista de Negocios) se reúne con **Juan Pablo Cas**, **Fernando Gutiérrez** y **Joh Cruz** para discutir los objetivos de su negocio.  
+En la entrevista, **Andrés Gutiérrez** (Analista de Negocios) se reúne con **Juan Pablo Castillo**, **Fernando Gutiérrez** y **Joh Cruz** para discutir los objetivos de su negocio.  
 
 - 📌 La conversación inicia con la solicitud de permiso para grabar, en cumplimiento con la **Ley de Protección de Datos**.  
 - 🏦 Los entrevistados explican que la **base estratégica** de su producto se centra en:  
