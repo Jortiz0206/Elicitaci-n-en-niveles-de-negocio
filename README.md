@@ -1,4 +1,4 @@
-# 📘 Elicitación en Niveles de Negocio  
+#Elicitación en Niveles de Negocio  
 
 Este repositorio contiene entrega sobre **Elicitación en niveles de negocio**, presentada en formato de **entrevista simulada como Analista de Negocios**.  
 
@@ -49,8 +49,6 @@ Mostrar cómo, desde el rol de **Analista de Negocios**, se pueden identificar, 
 - **Juan Barajas**
 - **Johanna Ortiz**  
   Estudiante de **Análisis y Desarrollo de Software (SENA)**  
-
-📌 Entregado en el marco del curso: *Análisis y Desarrollo de Software*.  
 
 ---
 
